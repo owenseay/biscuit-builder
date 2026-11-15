@@ -1,0 +1,9 @@
+# Keep the API key out of version history
+BiscuitVoice/Secrets.swift
+
+# Xcode and Mac clutter
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
